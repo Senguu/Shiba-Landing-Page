@@ -1,1 +1,2 @@
-# shiba-landing-page
+This is a project of a Landng page based on the tutorial of https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/#theprojectfolderstructure
+This project make part of my evolution as a Developer.
